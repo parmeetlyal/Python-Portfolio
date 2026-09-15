@@ -1,8 +1,7 @@
-# Python-Portfolio - Interactive Sketch Pad
+# Python-Portfolio - Marathon program
 
 ## Overview
-Developed for the Problem Solving and Programming Python portafolio coursework. This project demonstrates key concepts including real-time canvas coordinate mapping, and GUI devolopment via Tkinter
+Developed for the Problem Solving and Programming Python portfolio coursework. This project demonstrates key concepts including file I/O stream handling, data parsing, and dictionary mapping.
 
 ## Technologies Used
 * Python
-* Tkinter
